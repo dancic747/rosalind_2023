@@ -19,3 +19,4 @@ if __name__=='__main__':
     
     res=dNeighbourhood(pattern,d)
     print(*res,sep='\n', file=open('output.txt','w'))
+    
